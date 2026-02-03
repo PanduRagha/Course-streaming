@@ -50,7 +50,7 @@ The project focuses on building an online learning platform that supports video-
 4. Access video lessons, attempt quizzes, and track progress
 
 ## 🌐 Live Demo
-
+<img width="1355" height="640" alt="Image" src="https://github.com/user-attachments/assets/d2fd5b06-63c3-48af-81f5-adbcd934c54a" />
 
 
 
